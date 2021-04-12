@@ -17,6 +17,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+<div>
+<a href="https://github.com/HarishGuragol/github-readme-stats">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarishGuragol&theme=radical&hide=glsl,python" />
+</a>
+</div>
 
 
