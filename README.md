@@ -42,6 +42,7 @@
 
 ### 🔥 Streak Stats
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=HarishGuragol&theme=gruvbox" alt="HarishGuragol"  /></p>
+<hr>
 
 [![@harishguragol's Holopin board](https://holopin.io/api/user/board?user=harishguragol)](https://holopin.io/@harishguragol)
 
